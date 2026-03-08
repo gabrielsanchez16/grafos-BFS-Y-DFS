@@ -104,6 +104,7 @@ Para ejecutar el proyecto se deben seguir los siguientes pasos:
 3. Seleccionar el nodo inicial y el nodo objetivo desde la interfaz.
 4. Ejecutar el análisis.
 5. Observar el camino encontrado por cada algoritmo y la comparación de memoria.
+6. Link del proyecto https://colab.research.google.com/drive/1UlgsmpkYfhkS-H0lBfpatqdgT7k1XtHT?usp=sharing
 
 ---
 
