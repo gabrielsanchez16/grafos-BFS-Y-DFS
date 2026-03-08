@@ -2,9 +2,9 @@
 
 ## Autor
 
-Gabriel Sánchez
-Estudiante de Ingeniería de Sistemas
-Universidad del Pacífico
+### Gabriel Sánchez
+### Estudiante de Ingeniería de Sistemas
+### Universidad del Pacífico
 
 ---
 
